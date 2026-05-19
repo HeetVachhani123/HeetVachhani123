@@ -52,3 +52,39 @@ class About extends Me {
     "Tools" : { "Git", "GitHub", "VS Code", "Linux", "AWS" }
   };
 }
+```
+
+### <samp>🏗️ Highlighted Projects</samp>
+
+| 🛒 Supermarket Billing System | 🧠 MannMitra Accessibility Platform |
+| :--- | :--- |
+| **Description:** <br> A robust desktop application designed to streamline daily inventory tracking and automated billing operations. | **Description:** <br> A mental health accessibility platform featuring real-time tele-counselling workflows and UI testing. |
+| **⭐ Features:** <br> Automated billing, JDBC integration, efficient DB management. | **⭐ Features:** <br> Hackathon Finalist, UI/UX Presentation, Conceptual AI Flow. |
+| **Stack:** <br> ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | **Stack:** <br> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [View Project ↗](https://github.com/HeetVachhani123) | [View Project ↗](https://github.com/HeetVachhani123) |
+
+
+<div align="center">
+ <h3>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="28" style="vertical-align: bottom;" />
+  &nbsp;Connect with me
+</h3>
+  
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://leetcode.com/u/Heet_Vachhani/"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"/></a>
+  
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HeetVachhani123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=HeetVachhani123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeetVachhani123/HeetVachhani123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeetVachhani123/HeetVachhani123/output/github-contribution-grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HeetVachhani123/HeetVachhani123/output/github-contribution-grid-snake.svg">
+</picture>
