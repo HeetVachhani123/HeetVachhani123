@@ -41,18 +41,20 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<pre><code class="language-java">
-// tools_I_use organized
+```java
+import java.util.HashMap;
+import java.util.Map;
 
 class About extends Me {
-  const myTools = {
-    "Languages" : { "Java (DSA)", "Python", "SQL", "JavaScript" },
-    "WebTech" : { "HTML", "CSS" },
-    "CoreConcepts" : { "Data Structures & Algorithms", "OOP", "Problem-Solving" },
-    "Tools" : { "Git", "GitHub", "VS Code", "Linux", "AWS" }
-  };
+    Map<String, String[]> myTools = new HashMap<>();
+    {
+        myTools.put("Languages", new String[]{"Java (DSA)", "Python", "SQL", "JavaScript"});
+        myTools.put("WebTech", new String[]{"HTML", "CSS"});
+        myTools.put("CoreConcepts", new String[]{"Data Structures & Algorithms", "OOP", "Problem-Solving"});
+        myTools.put("Tools", new String[]{"Git", "GitHub", "VS Code", "Linux", "AWS"});
+    }
 }
-</code></pre>
+```
 
 <h3><samp>🏗️ Highlighted Projects</samp></h3>
 
@@ -115,3 +117,4 @@ class About extends Me {
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HeetVachhani123/HeetVachhani123/output/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
+````</String,>
