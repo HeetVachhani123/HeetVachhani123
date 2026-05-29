@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="50%">
       <h1>
         <img src="https://raw.githubusercontent.com/amanrj03/amanrj03/main/hyperkitty.gif" width="30" /> &nbsp;
         <samp>Heet Vachhani</samp>
@@ -9,14 +9,14 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=2487F7&width=435&lines=Java+Developer;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
       </a>
       <samp>
-        🚀 Passionate about solving complex problems & clean code<br>
-        📚 Constantly leveling up in Data Structures & Algorithms<br>
+        🚀 Passionate about solving complex problems & writing clean code<br>
+        📚 Constantly leveling up in Data Structures & Algorithms (DSA)<br>
         🔍 Detail-oriented developer focusing on scalable logic<br>
         🛠️ Building enterprise-level desktop & web applications<br>
         🎯 Driven, consistent, and always ready to learn<br>
       </samp>
     </td>
-    <td width="40%" align="center">
+    <td width="50%" height="auto" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="welcome to my github profile" width="100%">
     </td>
   </tr>
@@ -105,7 +105,7 @@ class About extends Me {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HeetVachhani123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=HeetVachhani123&theme=dracula&row=1&margin-w=15" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=HeetVachhani123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <br>
