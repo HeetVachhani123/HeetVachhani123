@@ -1,6 +1,6 @@
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="72%">
       <h1>
         <img src="https://raw.githubusercontent.com/amanrj03/amanrj03/main/hyperkitty.gif" width="30" /> &nbsp;
         <samp>Heet Vachhani</samp>
@@ -8,15 +8,16 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=2487F7&width=435&lines=Java+Developer;Problem+Solver;Computer+Science+Student" alt="Typing SVG" />
       </a>
+      <br>
       <samp>
         🚀 Passionate about solving complex problems & writing clean code<br>
-        📚 Constantly leveling up in Data Structures & Algorithms (DSA)<br>
+        📚 Constantly leveling up in Data Structures & Algorithms<br>
         🔍 Detail-oriented developer focusing on scalable logic<br>
-        🛠️ Building enterprise-level desktop & web applications<br>
+        🛠️ Building enterprise desktop & web applications<br>
         🎯 Driven, consistent, and always ready to learn<br>
       </samp>
     </td>
-    <td width="50%" height="auto" align="center">
+    <td width="28%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="welcome to my github profile" width="100%">
     </td>
   </tr>
@@ -41,18 +42,14 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-```java
-import java.util.HashMap;
-import java.util.Map;
-
+```javascript
 class About extends Me {
-    Map<String, String[]> myTools = new HashMap<>();
-    {
-        myTools.put("Languages", new String[]{"Java (DSA)", "Python", "SQL", "JavaScript"});
-        myTools.put("WebTech", new String[]{"HTML", "CSS"});
-        myTools.put("CoreConcepts", new String[]{"Data Structures & Algorithms", "OOP", "Problem-Solving"});
-        myTools.put("Tools", new String[]{"Git", "GitHub", "VS Code", "Linux", "AWS"});
-    }
+  const myTools = {
+    "Languages" : { "Java (DSA)", "Python", "SQL", "JavaScript" },
+    "WebTech" : { "HTML", "CSS" },
+    "CoreConcepts" : { "Data Structures & Algorithms", "OOP", "Problem-Solving" },
+    "Tools" : { "Git", "GitHub", "VS Code", "Linux", "AWS" }
+  };
 }
 ```
 
@@ -104,8 +101,8 @@ class About extends Me {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HeetVachhani123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HeetVachhani123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=HeetVachhani123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=HeetVachhani123&theme=dracula&row=1&margin-w=15" height="150" alt="trophy graph"  />
 </div>
 
 <br>
@@ -117,4 +114,3 @@ class About extends Me {
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HeetVachhani123/HeetVachhani123/output/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
-````</String,>
