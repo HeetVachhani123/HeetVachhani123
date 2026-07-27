@@ -60,21 +60,23 @@ class About extends Me {
 
 <table border="1" width="100%">
   <tr>
-    <td width="50%"><b>🛒 Supermarket Billing System</b></td>
+    <td width="50%"><b>🛍️ StyleMart Premium E-Commerce Marketplace</b></td>
     <td width="50%"><b>🧠 MannMitra Accessibility Platform</b></td>
   </tr>
   <tr>
-    <td><b>Description:</b><br>A robust desktop application designed to streamline daily inventory tracking and automated billing operations.</td>
+    <td><b>Description:</b><br>A production-ready premium fashion marketplace with responsive UI/UX, interactive shopping cart, and live Supabase/PostgreSQL integration.</td>
     <td><b>Description:</b><br>A mental health accessibility platform featuring real-time tele-counselling workflows and UI testing.</td>
   </tr>
   <tr>
-    <td><b>⭐ Features:</b><br>Automated billing, JDBC integration, efficient DB management.</td>
+    <td><b>⭐ Features:</b><br>Live price calculations, dynamic Toast notifications, Supabase auth & DB integration.</td>
     <td><b>⭐ Features:</b><br>Hackathon Finalist, UI/UX Presentation, Conceptual AI Flow.</td>
   </tr>
   <tr>
     <td><b>Stack:</b><br>
-      <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> 
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
     <td><b>Stack:</b><br>
       <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
@@ -82,7 +84,7 @@ class About extends Me {
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HeetVachhani123">View Project ↗</a></td>
+    <td><a href="https://github.com/HeetVachhani123">Live Demo ↗</a></td>
     <td><a href="https://github.com/HeetVachhani123">View Project ↗</a></td>
   </tr>
 </table>
@@ -105,7 +107,7 @@ class About extends Me {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HeetVachhani123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HeetVachhani123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.deno.dev/?username=HeetVachhani123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 <br>
@@ -117,4 +119,3 @@ class About extends Me {
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HeetVachhani123/HeetVachhani123/output/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
-````</String,>
