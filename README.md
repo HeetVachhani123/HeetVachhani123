@@ -10,7 +10,7 @@
       </a>
       <samp>
         🚀 Full-Stack & AI Software Development Intern @ ForCore IT<br>
-        📚 Constantly leveling up in Data Structures & Algorithms (DSA)<br>
+        📚 Constantly leveling up in Data Structures & Algorithms<br>
         🔍 Detail-oriented developer focusing on scalable logic<br>
         🛠️ Building real-time, AI-powered web applications<br>
         🎯 Seeking Software Engineering roles<br>
