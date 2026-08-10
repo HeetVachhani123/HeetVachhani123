@@ -3,7 +3,7 @@
     <td width="50%">
       <h1>
         <img src="https://raw.githubusercontent.com/amanrj03/amanrj03/main/hyperkitty.gif" width="30" /> &nbsp;
-        <samp>Heet Vachh</samp>
+        <samp>Heet Vachhani</samp>
       </h1>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=2487F7&width=435&lines=Full-Stack+Developer;AI+%26+Java+Enthusiast;Problem+Solver" alt="Typing SVG" />
